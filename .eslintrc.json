@@ -1,0 +1,4 @@
+{
+  "plugins": ["fsd"],
+  "extends": ["next/core-web-vitals", "next/typescript", "plugin:fsd/all"]
+}
